@@ -1,0 +1,10 @@
+
+Download the entire folder ICN_Assignment3 and retain the same directory structure.
+
+To run the code, open code/Ionic basis for intrinsic 40Hz neuronal oscillations.ipynb and run all cells in order. 
+
+The plots take long to simulate, hence pickle files are provided to directly load arrays from them (Plots_Fig2.ipynb, Plots_Fig3ab.ipynb and Plots_Fig3c.ipynb are used to generate those pickle files). 
+
+The answers to all theory questions can be found in Questions.pdf
+
+The last theory question has been answered in Questions.pdf and simulated in Ionic basis for intrinsic 40Hz neuronal oscillations.ipynb in the last few cells.
